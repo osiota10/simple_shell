@@ -110,4 +110,4 @@ The Checker will be released at the end of the project (1-2 days before the dead
 
 ## Collaborators 
 - [Fahad Sarki Mukhtar](https://github.com/fahadsarki)  
-- [Osiota Samuel Obrozie](www.github.com/osiota10) 
+- [Osiota Samuel Obrozie](https://github.com/osiota10) 
