@@ -213,5 +213,6 @@ julien@ubuntu:~/shell$
 
 
 ## Collaborators 
-- [Fahad Sarki Mukhtar](https://github.com/fahadsarki)  
-- [Osiota Samuel Obrozie](https://github.com/osiota10) 
+- Fahad Sarki Mukhtar <fahads.mukhtar@gmail.com>
+- Osiota Samuel Obrozie <osiotaobrozie@gmail.com>
+
